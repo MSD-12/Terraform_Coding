@@ -1,0 +1,11 @@
+
+{
+    "output" : {
+        "firstOutPutBlock" : {
+            "value": "This is firstOutPutBlock"
+        },
+        "secondOutputBlock" : {
+            "value" : "This is secondOutPutBlock"
+        }
+    }
+}
