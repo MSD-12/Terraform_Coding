@@ -10,6 +10,6 @@ resource "aws_instance" "web" {
 
   tags = {
     // instance name you can intiallize here
-    Name = "Firts_terraform_instance"
+    Name = "First_terraform_instance"
   }
 }
